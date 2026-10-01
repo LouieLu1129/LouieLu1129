@@ -6,7 +6,7 @@ Video & content producer who builds tools.
 I turn complex topics into content people can actually use —
 and when a workflow slows me down, I build something to fix it.
 
-影音內容企劃／製作，從研究、腳本、拍攝、剪輯到成效檢討都做過。
+影音內容企劃／製作，從研究、腳本、拍攝、剪輯到成效洞察工具都做過。
 
 近期也透過 AI 協作開發，替自己的工作流程打造工具。
 
